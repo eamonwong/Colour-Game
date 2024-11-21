@@ -18,9 +18,10 @@ This project is a fast-paced, Python-based word-colour association game with a g
 # Leaderboard File Format
 The leaderboard data is saved in a text file (leaderboard.txt) with the following structure:
 
-'1. John Doe: 12'
-'2. Jane Smith: 15'
-'3. Player One: 10'
+1. John Doe: 12
+2. Jane Smith: 15
+3. Player One: 10
+4. Player Two: 16
 
 This file updates automatically at the end of each game and is used to display the top scores.
 
