@@ -7,7 +7,7 @@ This project is a fast-paced, Python-based word-colour association game with a g
 - **Leaderboard**: Automatically saves and displays top player scores.
 - **AI-Driven Feedback**: Provides insights on accuracy, streak performance, and comparison to top players.
 - **Streak Analysis**: Tracks your highest streak during the game to motivate consistent performance.
-- **Custom Progress Ba**r: Visual representation of the remaining time.
+- **Animated Countdown Bar**: Visual representation of the remaining time.
 
 # Technologies Used
 - Python: Core programming language.
